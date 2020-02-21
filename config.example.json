@@ -1,0 +1,8 @@
+{
+    "token": "your discord token here",
+    "database_uri": "your mongodb uri here",
+    "admins": [ "your user id here" ],
+    "prefix": "your prefix here",
+    "mainGuild": "your user id here",
+    "color": 40545
+  }
